@@ -1,17 +1,25 @@
 {
   "environment": "web",
-  "source": "1LyDdmuUoXQg5mvvocMFrQlDBzlL1UGLb3NCHWxfcufg",
   "format": "html",
-  "prefix": "../../",
+  "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2019-08-23T06:19:26Z",
-  "id": "",
-  "duration": 60,
-  "title": "Unmai Arithal - Siva Sathsang",
-  "summary": "Unmai arithal sathsang conducted at SANF by Sivapithans ",
-  "theme": "",
-  "status": null,
-  "category": null,
-  "tags": [],
-  "url": ""
+  "updated": "2019-08-23T09:33:38Z",
+  "id": "Unmai_arithal",
+  "duration": 245,
+  "title": "",
+  "authors": "Written by : Senthil and Speach by Guru",
+  "summary": "Sivapithan",
+  "source": "1LyDdmuUoXQg5mvvocMFrQlDBzlL1UGLb3NCHWxfcufg",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "web"
+  ],
+  "ga": "UA-49880327-14",
+  "url": "Unmai_arithal"
 }
